@@ -17,6 +17,7 @@ Langages disponibles :
 - [English](./README.md)
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
+- [پارسی](./README-fa.md)
 
 Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
 
@@ -236,6 +237,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <p>
 
 > Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre votre projet meilleur.
+
 </p>
 
 <br />

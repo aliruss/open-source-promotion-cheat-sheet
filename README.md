@@ -10,14 +10,14 @@
 
 <h1 align="center">Open source promotion cheat sheet</h1>
 
-
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
+> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic.
 
 List of available languages:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
+- [پارسی](./README-fa.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
@@ -69,8 +69,8 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
->  - An animated GIF demonstrating how your project works
->  - A link to a live demo
+> - An animated GIF demonstrating how your project works
+> - A link to a live demo
 
 </p>
 </details>
@@ -136,6 +136,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 

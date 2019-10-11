@@ -10,7 +10,6 @@
 
 <h1 align="center">Cheat Sheet: Open Source Projekte bewerben</h1>
 
-
 > Dieses Cheat Sheet fasst wichtige Schritte zusammen, die dir dabei helfen sollen, dein Open Source Projekt zu bewerben. Klicke auf einen Punkt, um mehr über das Thema zu erfahren.
 
 Verfügbare Sprachen:
@@ -18,6 +17,7 @@ Verfügbare Sprachen:
 - [English](./README.md)
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
+- [پارسی](./README-fa.md)
 
 Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
@@ -67,8 +67,8 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 
 > Besucher wollen schnellstmöglich den Sinn deines Projekts verstehen, wie es funktioniert und wie man es benutzt. Mit einer Demo ist das am einfachsten. Eine Demo könnte folgendes sein:
 >
->  - Ein animiertes GIF, das zeigt, wie dein Projekt funktioniert
->  - Ein Link zu einer Live Demo
+> - Ein animiertes GIF, das zeigt, wie dein Projekt funktioniert
+> - Ein Link zu einer Live Demo
 
 </p>
 </details>
@@ -134,6 +134,7 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 
